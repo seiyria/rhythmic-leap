@@ -1,0 +1,11 @@
+{
+  "name": "rhythmic-leap",
+  "version": "0.0.0",
+  "authors": [
+    "Kyle Kemp <kyle@seiyria.com>"
+  ],
+  "dependencies": {
+    "lodash": "~3.8.0",
+    "phaser": "~2.3.0"
+  }
+}
