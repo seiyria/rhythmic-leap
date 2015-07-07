@@ -1,5 +1,3 @@
-let Phaser = require('Phaser');
-
 let game = new Phaser.Game('100%', '100%', Phaser.AUTO, 'game');
 
 // TODO remove jQuery

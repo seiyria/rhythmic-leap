@@ -22,14 +22,7 @@
   "strict": false,
   "debug": true,
   "globals": {
-    "angular": false,
-    "require": false,
-    "bootbox": false,
-    "module": false,
-    "Favico": false,
-    "Highcharts": false,
-    "d3": false,
     "_": false,
-    "$": false
+    "Phaser": false
   }
 }
